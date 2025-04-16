@@ -1,2 +1,3 @@
 # Resumo-do-Lab
 Este repositório foi criado com o intuito de concentrar as lições aprendidas ao longo do lab 
+A computação em nuvem oferece vários benefícios, principalmente para quem quer praticidade e economia. Um dos principais é que você pode acessar seus arquivos e sistemas de qualquer lugar, desde que tenha internet. Além disso, não precisa investir em servidores físicos caros, pois você paga apenas pelo que usa. Outro ponto importante é a segurança: os dados ficam protegidos e com backup automático. A nuvem também permite aumentar ou diminuir os recursos conforme a necessidade, o que é ótimo para empresas. E por fim, facilita a colaboração entre pessoas, já que várias podem acessar e editar arquivos ao mesmo tempo.
